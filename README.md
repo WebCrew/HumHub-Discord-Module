@@ -1,6 +1,6 @@
 ## Discord
 
-Adds a panel on the Dashboard, with the Discord Chat Widget.
+Adds a panel on the Dashboard, with the Discord **Chat Connect Widget**.
 
 ### Installation
 
