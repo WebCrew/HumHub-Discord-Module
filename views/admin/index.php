@@ -1,7 +1,7 @@
 <?php
 
 use yii
-use yii\widgets\ActiveForm;
+use yii\bootstrap\ActiveForm;;
 use yii\helpers\Html;
 use yii\helpers\Url;
 use humhub\modules\discord\controllers\AdminController;
