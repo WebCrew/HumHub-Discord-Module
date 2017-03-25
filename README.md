@@ -12,7 +12,7 @@ Adds a panel on the Dashboard, with the Discord **Chat Connect Widget**.
 
 
 ### Attention
-Please note, this module may not be used by **SSL** users.
+Please note that some users may or may not have issues with this module when it comes to using a **SSL** client.
 
 ### Installation
 
@@ -22,6 +22,11 @@ Please note, this module may not be used by **SSL** users.
 -  rename the module to **discord**
 -  go to HumHub Admin Panel and activate the module
 
+### Wiki Guides
+[Here](https://github.com/WebCrew/HumHub-Discord-Module/wiki)
+
 __Author:__ Andreas Holzer
+
+__Edited by:__ Felli
 
 Inspired by Dwarfs and Goblins :)
