@@ -25,7 +25,7 @@ Please note that some users may or may not have issues with this module when it 
 ### Wiki Guides
 [Here](https://github.com/WebCrew/HumHub-Discord-Module/wiki)
 
-__Author:__ Andreas Holzer
+__Author:__ Andreas Holzer https://crazymates.de
 
 __Edited by:__ Felli
 
